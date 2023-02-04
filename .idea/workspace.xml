@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sudoku_java:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dc5b73f-23c9-448d-bd39-ccd5b19a607c" name="Changes" comment="gui poprawka tablicy">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sudoku_java_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sudoku_java_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/BoardChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/BoardChecker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IhOqaYfojhqOTqrpvKFb0qro2s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;236&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/Desktop/koncowy_android/Sudoku&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dc5b73f-23c9-448d-bd39-ccd5b19a607c" name="Changes" comment="gui" />
+      <created>1670630539637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670630539637</updated>
+      <workItem from="1670630540815" duration="2876000" />
+      <workItem from="1670751432724" duration="12309000" />
+      <workItem from="1670782340323" duration="51000" />
+      <workItem from="1670797979707" duration="398000" />
+      <workItem from="1671204036470" duration="1275000" />
+      <workItem from="1671208313274" duration="1245000" />
+      <workItem from="1671227468271" duration="1661000" />
+      <workItem from="1671277904655" duration="618000" />
+      <workItem from="1672229847066" duration="38114000" />
+      <workItem from="1672869106547" duration="651000" />
+      <workItem from="1672934167185" duration="21349000" />
+      <workItem from="1673123861150" duration="205000" />
+      <workItem from="1673127368381" duration="24000" />
+      <workItem from="1673127451696" duration="63000" />
+      <workItem from="1673290273007" duration="4190000" />
+      <workItem from="1673303863185" duration="1134000" />
+      <workItem from="1673464146606" duration="21000" />
+      <workItem from="1673607006092" duration="1061000" />
+      <workItem from="1673702827567" duration="4906000" />
+      <workItem from="1673854341915" duration="11000" />
+      <workItem from="1673886365337" duration="3266000" />
+      <workItem from="1674080362860" duration="897000" />
+      <workItem from="1674128560402" duration="35000" />
+      <workItem from="1674231565908" duration="12262000" />
+      <workItem from="1674303398066" duration="3660000" />
+      <workItem from="1674309655333" duration="307000" />
+      <workItem from="1674312718225" duration="2111000" />
+      <workItem from="1674403489358" duration="33000" />
+      <workItem from="1674403542101" duration="378000" />
+      <workItem from="1674404110847" duration="7896000" />
+      <workItem from="1674414459351" duration="760000" />
+      <workItem from="1674415554631" duration="112000" />
+    </task>
+    <task id="LOCAL-00001" summary="gui">
+      <created>1670631066284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670631066284</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gui poprawka tablicy">
+      <created>1674304195312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674304195312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gui" />
+    <MESSAGE value="gui poprawka tablicy" />
+    <option name="LAST_COMMIT_MESSAGE" value="gui poprawka tablicy" />
+  </component>
+</project>
